@@ -1,12 +1,12 @@
 [webservers]
-web1
-web2
+ansible00
+ansible01
 
 [dbservers]
-db1
+ansible02
 
 [lbservers]
-lb1
+ansible03
 
 [monitoring]
-nagios
+ansible04
